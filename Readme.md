@@ -1,5 +1,5 @@
 ## Objective:
-Create a simple implementation for all the method of the commonly used data structures
+Create simple implementation for different methods present in commonly used data structures
 
 ## Reference Video 
 https://www.youtube.com/watch?v=RBSGKlAvoiM
